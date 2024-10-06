@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="this is new commit" />
+    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="this is new commit">
+      <change afterPath="$PROJECT_DIR$/Ex001/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/StringDataypeFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/GreaterBetweenTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/TableForGivenNo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,16 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.FirstProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.FirstProgram.executor": "Run",
+    "Python.GreaterBetweenTwo.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.StringDataypeFunctions.executor": "Run",
+    "Python.TableForGivenNo.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727887694159</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="this is new commit">
+      <option name="closed" value="true" />
+      <created>1727888741391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727888741391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
