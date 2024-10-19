@@ -20,4 +20,5 @@ print(str.isspace())
 print(str.istitle())
 print(str.isprintable())
 print(str.isascii())
-
+print(str.isdecimal())
+print(str.isidentifier())
