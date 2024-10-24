@@ -5,18 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="fibonacci series">
-      <change afterPath="$PROJECT_DIR$/Ex001/FactorialNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/FibonacciUsingFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/LambdaFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/MapFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/CheckForIdenticalLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/CheckListEmptyOrNot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_FindLargestAndSmallestNo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_SumOfAllNo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/PrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/PrintNoInTheListOfGivenRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/RemoveDuplicatesFromList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/List_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Basic_AreaOfCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_CountNoOfStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_MultiplyAllNo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex001/FactorialNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_FactorialNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex001/FibonacciUsingFunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_FibonacciUsingFunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/AreaOfCircle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/CheckForIdenticalLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/List_CheckForIdenticalLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/CheckListEmptyOrNot.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/List_CheckListEmptyOrNot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/GradeCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/IfElse_GradeCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/GreaterBetweenTwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_GreaterBetweenTwo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/LeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_LeapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/MaxNumUsingTernaryOperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/TernaryOperator_MaxNumUsingTernaryOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/PrimeNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_PrimeNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/PrintNoInTheListOfGivenRange.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/List_PrintNoInTheListOfGivenRange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/RemoveDuplicatesFromList.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/List_RemoveDuplicatesFromList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/SquareAndCubeOfNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_SquareAndCubeOfNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/TableForGivenNo.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_TableForGivenNo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/TriangleClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_TriangleClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ_Python/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ_Python/Basic_palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +74,7 @@
     "Python.AreaOfCircle.executor": "Run",
     "Python.CheckForIdenticalLists.executor": "Run",
     "Python.CheckListEmptyOrNot.executor": "Run",
+    "Python.CountNoOfStrings.executor": "Run",
     "Python.FactorialNumber.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.FibonacciUsingFunc.executor": "Run",
@@ -76,9 +87,11 @@
     "Python.LeapYear.executor": "Run",
     "Python.List_FindLargestAndSmallestNo.executor": "Run",
     "Python.List_FindLargestNo.executor": "Run",
+    "Python.List_Operators.executor": "Run",
     "Python.List_SumOfAllNo.executor": "Run",
     "Python.MapFunc.executor": "Run",
     "Python.MaxNumUsingTernaryOperator.executor": "Run",
+    "Python.MultiplyAllNoinList.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
     "Python.PrintNoInTheListOfGivenRange.executor": "Run",
     "Python.RemoveDuplicatesFromList.executor": "Run",
@@ -197,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729333511954</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fibonacci series">
+      <option name="closed" value="true" />
+      <created>1729451009118</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729451009118</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +254,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FAQ_Python/palindrome.py</url>
+          <url>file://$PROJECT_DIR$/FAQ_Python/Basic_palindrome.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
