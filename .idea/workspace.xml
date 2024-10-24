@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="fibonacci series">
-      <change afterPath="$PROJECT_DIR$/Ex001/FactorialNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/FibonacciUsingFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/LambdaFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex001/MapFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/CheckForIdenticalLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/CheckListEmptyOrNot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_FindLargestAndSmallestNo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_SumOfAllNo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/PrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/PrintNoInTheListOfGivenRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/RemoveDuplicatesFromList.py" afterDir="false" />
+    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="files renamed and organised">
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Continue_PrintExceptSpecificNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_CompareList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +55,8 @@
     "Python.AreaOfCircle.executor": "Run",
     "Python.CheckForIdenticalLists.executor": "Run",
     "Python.CheckListEmptyOrNot.executor": "Run",
+    "Python.Continue_PrintExceptSpecificNumbers.executor": "Run",
+    "Python.CountNoOfStrings.executor": "Run",
     "Python.FactorialNumber.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.FibonacciUsingFunc.executor": "Run",
@@ -74,11 +67,14 @@
     "Python.Lab003.executor": "Run",
     "Python.LambdaFunc.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.List_CompareList.executor": "Run",
     "Python.List_FindLargestAndSmallestNo.executor": "Run",
     "Python.List_FindLargestNo.executor": "Run",
+    "Python.List_Operators.executor": "Run",
     "Python.List_SumOfAllNo.executor": "Run",
     "Python.MapFunc.executor": "Run",
     "Python.MaxNumUsingTernaryOperator.executor": "Run",
+    "Python.MultiplyAllNoinList.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
     "Python.PrintNoInTheListOfGivenRange.executor": "Run",
     "Python.RemoveDuplicatesFromList.executor": "Run",
@@ -93,6 +89,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhosa\PycharmProjects\Py3xLearningATB\FAQ_Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -197,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729333511954</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fibonacci series">
+      <option name="closed" value="true" />
+      <created>1729451009118</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729451009118</updated>
+    </task>
+    <task id="LOCAL-00013" summary="files renamed and organised">
+      <option name="closed" value="true" />
+      <created>1729744372475</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729744372475</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,14 +244,20 @@
     <MESSAGE value="this is new commit" />
     <MESSAGE value="this is latest commit" />
     <MESSAGE value="fibonacci series" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonacci series" />
+    <MESSAGE value="files renamed and organised" />
+    <option name="LAST_COMMIT_MESSAGE" value="files renamed and organised" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FAQ_Python/palindrome.py</url>
+          <url>file://$PROJECT_DIR$/FAQ_Python/Basic_palindrome.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FAQ_Python/List_CompareList.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
