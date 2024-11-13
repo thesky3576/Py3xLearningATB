@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="files renamed and organised">
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/Continue_PrintExceptSpecificNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FAQ_Python/List_CompareList.py" afterDir="false" />
+    <list default="true" id="83b59089-e230-4e3c-93cb-ba8b13565f4b" name="Changes" comment="new comment">
+      <change afterPath="$PROJECT_DIR$/Constructor_carExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/Dictionary_Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/Filters_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/Inheritance _Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001/Oops_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Basic_Fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Constructor_RealTimeExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Imp_LeetCode_SumOfDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FAQ_Python/Inheritance_practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +46,9 @@
     &quot;accountId&quot;: &quot;d964ede0-308f-4c47-8917-26d1aa8ae08f&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -53,20 +63,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.AreaOfCircle.executor": "Run",
+    "Python.Basic_Fib.executor": "Run",
     "Python.CheckForIdenticalLists.executor": "Run",
     "Python.CheckListEmptyOrNot.executor": "Run",
+    "Python.Constructor_RealTimeExample.executor": "Run",
+    "Python.Constructor_carExample.executor": "Run",
     "Python.Continue_PrintExceptSpecificNumbers.executor": "Run",
     "Python.CountNoOfStrings.executor": "Run",
+    "Python.Dictionary_Basic.executor": "Run",
     "Python.FactorialNumber.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.FibonacciUsingFunc.executor": "Run",
+    "Python.Filters_.executor": "Run",
     "Python.FirstProgram.executor": "Run",
     "Python.GradeCalculator.executor": "Run",
     "Python.GreaterBetweenTwo.executor": "Run",
+    "Python.IfElse_GradeCalculator.executor": "Run",
+    "Python.Inheritance _Basic.executor": "Run",
+    "Python.Inheritance_practice.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.LambdaFunc.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.LeetCode_SumOfDigits.executor": "Run",
     "Python.List_CompareList.executor": "Run",
     "Python.List_FindLargestAndSmallestNo.executor": "Run",
     "Python.List_FindLargestNo.executor": "Run",
@@ -75,6 +94,7 @@
     "Python.MapFunc.executor": "Run",
     "Python.MaxNumUsingTernaryOperator.executor": "Run",
     "Python.MultiplyAllNoinList.executor": "Run",
+    "Python.Oops_basic.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
     "Python.PrintNoInTheListOfGivenRange.executor": "Run",
     "Python.RemoveDuplicatesFromList.executor": "Run",
@@ -97,7 +117,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -214,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729744372475</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new comment">
+      <option name="closed" value="true" />
+      <created>1729748207571</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729748207571</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +273,8 @@
     <MESSAGE value="this is latest commit" />
     <MESSAGE value="fibonacci series" />
     <MESSAGE value="files renamed and organised" />
-    <option name="LAST_COMMIT_MESSAGE" value="files renamed and organised" />
+    <MESSAGE value="new comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="new comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -255,9 +284,8 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FAQ_Python/List_CompareList.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/FAQ_Python/Basic_Fib.py</url>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
